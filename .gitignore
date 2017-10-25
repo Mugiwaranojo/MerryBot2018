@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+server_merrybot/node_modules
+server_merrybot/dist
